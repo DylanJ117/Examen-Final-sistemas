@@ -1,0 +1,43 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: blueviolet;
+}
+.calculadora{
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius:  1px solid #bd7518;
+    background-color: rgb(253, 198, 17);
+}
+input[type="button"] {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    margin: 5px;
+}
+h1{
+    color: blue;
+}
+.boton{
+    background-color: darkolivegreen;
+    border-radius: 1px solid green;
+}
+.botondiv{
+    background-color: brown;
+}
+.botonmul{
+    background-color: red;
+}
+.botonresta{
+    background-color: cadetblue;
+}
+.botonigual{
+    background-color: cornflowerblue;
+}
+.borrar{
+    background-color: fuchsia;
+}
+.botonsuma{
+    background-color: indianred;
+}
